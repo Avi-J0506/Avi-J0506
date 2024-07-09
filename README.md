@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](abhinandan-portfolio-fawn.vercel.app)
 <h1 align="center">Hi 👋, I'm Abhinandan Jha</h1>
 <h3 align="center">A passionate Full Stack Developer and a Competitive Coder.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi-j0506" alt="avi-j0506" /></a> </p>
 
